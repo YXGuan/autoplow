@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/yuxiang/code/2023/robotics/ros2_ws/install/my_package/lib/python3.8/site-packages",
+        "/home/yuxiang/code/2023/robotics/ros2_ws/install/turtlesim/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/ros/noetic/lib/python3/dist-packages",
+        "/home/yuxiang/code/2023/robotics/ros2_ws/install/my_package/lib/python3.8/site-packages",
+        "/home/yuxiang/code/2023/robotics/ros2_ws/install/turtlesim/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}
